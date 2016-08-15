@@ -1,0 +1,146 @@
+
+
+.intro{
+	
+	width:1000px;
+	/*border:3px solid #6E6E6E;*/
+	background: #e7a61a;
+	/*border-radius: 55px 55px 55px 55px;*/
+	border-top-right-radius: 40px
+}
+
+.intro h1{
+
+	text-align: left;
+	font-family: Arial;
+	color:#424242;
+}
+.intro h2{
+	text-align: left;
+	font-family: Arial;
+	color:#6E6E6E;
+}
+.intro .summary{
+	text-align: left;
+	font-family: Arial;
+	color:#585858;
+	margin: 10px;
+	padding: 20px;
+	
+}
+
+.intro .preamble h3{
+	text-align: left;
+	font-family: Arial; 
+	color:#6E6E6E;
+}
+.preamble p{
+	padding: 10px;
+	text-align: left;
+	font-family: Arial;
+	color:#585858;
+
+}
+
+#zen-supporting #zen-explanation{
+	width:1000px;
+	/*border:3px solid #6E6E6E;*/
+	background: #2E64FE;
+	/*border-radius: 55px 55px 55px 55px;*/
+	border-top-left-radius: 40px
+}
+#zen-explanation h3{
+	margin-top: 20px;
+	text-align: left;
+	font-family: Arial;
+	color:#FAFAFA;
+	text-align: right;
+}
+#zen-explanation p{
+	margin-bottom: 10px;
+	padding: 15px;
+	margin-left: 10px;
+	margin-right: 10px;
+	font-size: 14px;
+	text-align: left;
+	font-family: Arial;
+	color:#FAFAFA;
+}
+.participation{
+
+	text-align: center;
+	font-family: Arial;
+	width:1000px;
+	/*border:3px solid #6E6E6E;*/
+	background: #F4FA58;
+	/*border-radius: 55px 55px 55px 55px;*/
+	border-bottom-right-radius: 40px
+}
+.participation h3{
+	color:#08088A;
+}
+
+.participation p{
+	color:#0B2161;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.benefits{
+	text-align: center;
+	font-family: Arial;
+	width:1000px;
+	/*border:3px solid #6E6E6E;*/
+	background: #FF0000;
+	/*border-radius: 55px 55px 55px 55px;*/
+	border-top-right-radius: 40px
+}
+.benefits p{
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.requirements{
+	text-align: center;
+	font-family: Arial;
+	width:1000px;
+	color:#A4A4A4;
+	background: #7401DF;
+	/*border-radius: 55px 55px 55px 55px;*/
+	border-bottom-right-radius: 40px
+
+}
+.requirements a{
+	color:white;
+}
+.requirements p{
+	margin-left: 10px;
+	margin-right:10px;
+}
+footer{
+	background:#0489B1;
+	border-radius: 55px 55px 55px 55px;
+	width:1000px;
+}
+footer a{
+	margin-left: 10px;
+	font-family: Arial;
+	color:white;
+}
+.wrapper{
+	margin-left: 90px;
+	background:#0489B1;
+	border-radius: 55px 55px 55px 55px;
+	width:700px;
+	font-family: Arial;
+	color:#D8D8D8;
+
+}
+.design-selection h3{
+	text-align:center;
+}
+
+.design-selection nav{
+	margin-left: 10px;
+	margin-bottom:10px;
+
+
+}
